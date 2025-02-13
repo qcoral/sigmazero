@@ -173,3 +173,9 @@ GreenSpool:
   description: "A green 3D printer that can use plastic as filament"
   repository: "https://raw.githubusercontent.com/dave9123/GreenSpool/ref/heads/main/JOURNAL.md"
   file_name: GreenSpool.md
+
+ED3D:
+  title: "ED3D"
+  description: "A printer that has hologram showing whats being printed"
+  repository: "https://github.com/Fastestkyo/ED3D"
+  file_name: ED3D.md
